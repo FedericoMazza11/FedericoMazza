@@ -5,18 +5,18 @@
 
 Voxer.ar | [It's an anonymous social web page based in some way in reddit and 4chan style](https://voxerxyz.herokuapp.com/) <br>
 Weather API | [I used a weather API with NodeJS and Bootstrap](https://voxerxyz.herokuapp.com/) <br>
-Polify | [A Spotify clone i've made using ReactJS and Spotify API](https://voxerxyz.herokuapp.com/) 
+Polify | [A Spotify clone i've made using ReactJS and Spotify API](https://voxerxyz.herokuapp.com/) <br>
 
 
 ## Skills:
-#Javascript</br>
-> Mainly NodeJS with ReactJS
-#MondoDB</br>
-> Using NodeJS for fullstack purposes
-#Python</br>
->Applied in Big Data projects, with Hadoop and SPARK
-#C++ / C</br>
->I used these two lenguages only applied to electronic devices
+# Javascript</br>
+> Mainly NodeJS with ReactJS  <br>
+# MondoDB</br>
+> Using NodeJS for fullstack purposes <br>
+# Python</br>
+>Applied in Big Data projects, with Hadoop and SPARK <br>
+# C++ / C</br>
+>I used these two lenguages only applied to electronic devices <br>
 
 ## Contact me:
 #[LinkedIn](https://www.linkedin.com/in/federico-mazza-931229217)
