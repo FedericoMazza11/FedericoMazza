@@ -1,6 +1,6 @@
 # 👋 Hello, my name is Federico Mazza
 ## I'm a Javascript fullstack developer and electronics engineering student
-##I started programming during quarantine when i was at my 4th high school year, i'm currently in my 1st year of electronics engineering and to this day i've made the following projetcs:
+### I started programming during quarantine when i was at my 4th high school year, i'm currently in my 1st year of electronics engineering and to this day i've made the following projetcs:
 ## Projetcs
 
 Voxer.ar | [It's an anonymous social web page based in some way in reddit and 4chan style](https://voxerxyz.herokuapp.com/) <br>
